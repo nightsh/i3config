@@ -73,3 +73,10 @@ it in your terminal: `$ echo $PATH`.
 * Redshift, which does wonders for the eyes at night
 * Xfce power manager daemon, lightweight and efficient
 
+
+### License
+
+Copyright © 2014 Victor Nițu <victor@debian.org.ro>
+This work is free. You can redistribute it and/or modify it under the
+terms of the Do What The Fuck You Want To Public License, Version 2,
+as published by Sam Hocevar. See the COPYING file for more details.
