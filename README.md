@@ -2,10 +2,10 @@
 
 ### Screenshots
 
-![Clean shot, no windows](https://raw.github.com/nightsh/i3config/master/shots/i3-wm1.png)[ Clean shot, no windows ]
-![Some terminals open, nothing unusual](https://raw.github.com/nightsh/i3config/master/shots/i3-wm2.png)[ Some terminals open, nothing unusual ]
-![GVim running](https://raw.github.com/nightsh/i3config/master/shots/i3-wm3.png)[ GVim running ]
-![Vim running in gnome-terminal](https://raw.github.com/nightsh/i3config/master/shots/i3-wm4.png)[ Vim running in gnome-terminal ]
+![Clean shot, no windows](https://raw.github.com/nightsh/i3config/master/screens/i3wm-1.png)[ Clean shot, no windows ]
+![Some terminals open, nothing unusual](https://raw.github.com/nightsh/i3config/master/screens/i3wm-2.png)[ Some terminals open, nothing unusual ]
+![GVim running](https://raw.github.com/nightsh/i3config/master/screens/i3wm-3.png)[ GVim running ]
+![Vim running in gnome-terminal](https://raw.github.com/nightsh/i3config/master/screens/i3wm-4.png)[ Vim running in gnome-terminar ]
 
 
 ### Requirements
