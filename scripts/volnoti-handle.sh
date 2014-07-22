@@ -22,7 +22,7 @@ esac
 
 
 # Show volume with volnoti
-if [ -n $STATE ]; then
+if [[ -n $STATE ]]; then
     volnoti-show $VOLUME
 else
     volnoti-show -m
