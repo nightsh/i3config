@@ -40,7 +40,7 @@ TEXT
   #{
   #  #"full_text": "U: ${execi 3600 cat $HOME/.updates.txt}",
   #  #"full_text": "U: ${execi 3600 aptitude search '~U' | wc -l} ",
-  #  "full_text": "U: ${execi 3600 /home/victor/scripts/conky_updates.sh} ",
+  #  "full_text": "U: ${execi 3600 ~/scripts/conky_updates.sh} ",
   #  "min_width": 45,
   #  "align": "center",
   #  "color": "\#4E9FB1"
@@ -111,7 +111,7 @@ TEXT
   },
 
   {
-    "full_text": " I ${execi 60 /home/victor/scripts/conky_public_ip.sh} ",
+    "full_text": " I ${execi 60 ~/scripts/conky_public_ip.sh} ",
     "max_width": 180,
     "align": "center",
     "color": "\#4E9FB1"
