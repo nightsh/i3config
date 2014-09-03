@@ -45,6 +45,19 @@ TEXT
   #  "align": "center",
   #  "color": "\#4E9FB1"
   #},
+  {
+    "full_text": "${execi 10 ~/.i3/scripts/yahoo-weather.rb}",
+    "max_width": 180,
+    "align": "center",
+    "color": "\#4E9FB1"
+  },
+
+  {
+    "full_text": "@ ${execi 10 ~/.i3/scripts/gmail.rb} ",
+    "max_width": 180,
+    "align": "center",
+    "color": "\#4E9FB1"
+  },
 
   {
     "full_text": "⛆ ${freq_g}GHz ${CPU}% ${acpitemp}℃ ",
